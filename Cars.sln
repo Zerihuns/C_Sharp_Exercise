@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{6FE32471-C08F-4EEE-9B07-412598AC8B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars", "Cars\Cars.csproj", "{6FE32471-C08F-4EEE-9B07-412598AC8B42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirEx", "DirEx\DirEx.csproj", "{4D1B59D8-0E89-4506-9950-550E21E29D6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DirEx", "DirEx\DirEx.csproj", "{4D1B59D8-0E89-4506-9950-550E21E29D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2_Ex", "Day2_Ex\Day2_Ex.csproj", "{FE542707-11E6-423B-9B59-EE7460CFEB77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4D1B59D8-0E89-4506-9950-550E21E29D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1B59D8-0E89-4506-9950-550E21E29D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1B59D8-0E89-4506-9950-550E21E29D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE542707-11E6-423B-9B59-EE7460CFEB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE542707-11E6-423B-9B59-EE7460CFEB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE542707-11E6-423B-9B59-EE7460CFEB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE542707-11E6-423B-9B59-EE7460CFEB77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
