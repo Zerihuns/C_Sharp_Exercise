@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Channels;
 using System.Threading.Tasks;
 
-namespace AsyncTest
+namespace AsyncEx
 {
     internal class Multiplexer
     {
