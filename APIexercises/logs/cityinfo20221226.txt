@@ -1,0 +1,62 @@
+2022-12-26 01:57:18.440 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-12-26 01:57:18.552 +02:00 [DBG] Hosting starting
+2022-12-26 01:57:18.627 +02:00 [INF] Now listening on: http://localhost:5002
+2022-12-26 01:57:18.629 +02:00 [DBG] Loaded hosting startup assembly APIexercises
+2022-12-26 01:57:18.631 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2022-12-26 01:57:18.632 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2022-12-26 01:57:18.634 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-12-26 01:57:18.635 +02:00 [INF] Hosting environment: Development
+2022-12-26 01:57:18.636 +02:00 [INF] Content root path: C:\Users\Prime\Documents\C_Sharp_Exercise\APIexercises
+2022-12-26 01:57:18.637 +02:00 [DBG] Hosting started
+2022-12-26 01:57:18.910 +02:00 [DBG] Connection id "0HMN6QF0RM43I" accepted.
+2022-12-26 01:57:18.910 +02:00 [DBG] Connection id "0HMN6QF0RM43H" accepted.
+2022-12-26 01:57:18.912 +02:00 [DBG] Connection id "0HMN6QF0RM43I" started.
+2022-12-26 01:57:18.913 +02:00 [DBG] Connection id "0HMN6QF0RM43H" started.
+2022-12-26 01:57:18.929 +02:00 [DBG] Connection id "0HMN6QF0RM43I" received FIN.
+2022-12-26 01:57:18.929 +02:00 [DBG] Connection id "0HMN6QF0RM43H" received FIN.
+2022-12-26 01:57:18.935 +02:00 [DBG] Connection id "0HMN6QF0RM43I" sending FIN because: "The client closed the connection."
+2022-12-26 01:57:18.935 +02:00 [DBG] Connection id "0HMN6QF0RM43H" sending FIN because: "The client closed the connection."
+2022-12-26 01:57:18.939 +02:00 [DBG] Connection id "0HMN6QF0RM43I" disconnecting.
+2022-12-26 01:57:18.940 +02:00 [DBG] Connection id "0HMN6QF0RM43H" disconnecting.
+2022-12-26 01:57:18.943 +02:00 [DBG] Connection id "0HMN6QF0RM43H" stopped.
+2022-12-26 01:57:18.943 +02:00 [DBG] Connection id "0HMN6QF0RM43I" stopped.
+2022-12-26 01:57:19.175 +02:00 [DBG] Connection id "0HMN6QF0RM43J" accepted.
+2022-12-26 01:57:19.178 +02:00 [DBG] Connection id "0HMN6QF0RM43J" started.
+2022-12-26 01:57:19.179 +02:00 [DBG] Connection id "0HMN6QF0RM43K" accepted.
+2022-12-26 01:57:19.182 +02:00 [DBG] Connection id "0HMN6QF0RM43K" started.
+2022-12-26 01:57:19.339 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger - -
+2022-12-26 01:57:19.362 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2022-12-26 01:57:19.387 +02:00 [DBG] Connection id "0HMN6QF0RM43K" completed keep alive response.
+2022-12-26 01:57:19.389 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger - - - 301 0 - 55.7621ms
+2022-12-26 01:57:19.393 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger/index.html - -
+2022-12-26 01:57:19.595 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2022-12-26 01:57:19.601 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2022-12-26 01:57:19.604 +02:00 [DBG] Connection id "0HMN6QF0RM43K" completed keep alive response.
+2022-12-26 01:57:19.606 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger/index.html - - - 200 - text/html;charset=utf-8 213.7034ms
+2022-12-26 01:57:19.622 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui.css - -
+2022-12-26 01:57:19.623 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-bundle.js - -
+2022-12-26 01:57:19.623 +02:00 [DBG] Connection id "0HMN6QF0RM43L" accepted.
+2022-12-26 01:57:19.629 +02:00 [DBG] Connection id "0HMN6QF0RM43L" started.
+2022-12-26 01:57:19.629 +02:00 [DBG] Connection id "0HMN6QF0RM43M" accepted.
+2022-12-26 01:57:19.631 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-standalone-preset.js - -
+2022-12-26 01:57:19.633 +02:00 [DBG] Connection id "0HMN6QF0RM43M" started.
+2022-12-26 01:57:19.634 +02:00 [DBG] Connection id "0HMN6QF0RM43N" accepted.
+2022-12-26 01:57:19.639 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - -
+2022-12-26 01:57:19.642 +02:00 [DBG] Connection id "0HMN6QF0RM43N" started.
+2022-12-26 01:57:19.645 +02:00 [DBG] Connection id "0HMN6QF0RM43M" completed keep alive response.
+2022-12-26 01:57:19.645 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/_vs/browserLink - -
+2022-12-26 01:57:19.648 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/_framework/aspnetcore-browser-refresh.js - - - 200 11994 application/javascript;+charset=utf-8 8.7219ms
+2022-12-26 01:57:19.659 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2022-12-26 01:57:19.659 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2022-12-26 01:57:19.663 +02:00 [DBG] Connection id "0HMN6QF0RM43L" completed keep alive response.
+2022-12-26 01:57:19.661 +02:00 [DBG] Connection id "0HMN6QF0RM43K" completed keep alive response.
+2022-12-26 01:57:19.666 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 35.0205ms
+2022-12-26 01:57:19.668 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui.css - - - 200 143943 text/css 45.4536ms
+2022-12-26 01:57:19.676 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2022-12-26 01:57:19.679 +02:00 [DBG] Connection id "0HMN6QF0RM43J" completed keep alive response.
+2022-12-26 01:57:19.680 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 57.4616ms
+2022-12-26 01:57:19.770 +02:00 [DBG] Connection id "0HMN6QF0RM43N" completed keep alive response.
+2022-12-26 01:57:19.772 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 126.8506ms
+2022-12-26 01:57:19.948 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - -
+2022-12-26 01:57:20.125 +02:00 [DBG] Connection id "0HMN6QF0RM43N" completed keep alive response.
+2022-12-26 01:57:20.127 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5002/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 179.5915ms
