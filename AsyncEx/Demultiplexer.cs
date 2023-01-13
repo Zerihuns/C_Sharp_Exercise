@@ -21,7 +21,7 @@ namespace AsyncEx
                 var index = 0;
                 await foreach (var item in ch.ReadAllAsync())
                 {
-                    await outputs[index].Writer.WriteAsync(item);
+           //         await outputs[index].Writer.WriteAsync(item);
                     index = (index + 1) % n;
                 }
 
